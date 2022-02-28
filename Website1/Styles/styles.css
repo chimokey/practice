@@ -1,0 +1,51 @@
+body {
+    background-color: #f4f5ef;
+    color: black;
+}
+
+.mainHeadder {
+    text-align: center;
+    color: white;
+}
+
+.topController {
+    color: white;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding: 2%;
+    background-color: #39345c;
+    top: 10px;
+    border: 20px;
+}
+
+.midController {
+    color: black;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding: 2%;
+    background-color: #847f7d;
+}
+
+.bottomController {
+    background-color: #331e3d;
+}
+
+.bodyController {
+    padding: 3%;
+    background-color: #878391;
+}
+
+.text {
+    color: white;
+    padding-top: 20px;
+    padding-right: 40%;
+    padding-left: 10%;
+}
+
+.textLeft {
+    text-align: left;
+    color: white;
+    padding-top: 20px;
+    padding-right: 10%;
+    padding-left: 40%;
+}
